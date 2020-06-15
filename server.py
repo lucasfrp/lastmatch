@@ -11,4 +11,5 @@ def last_match(summoner):
     return jsonify(m.get_player_status(p.account_id))
 
 
-app.run(host='0.0.0.0', port=80)
+if __name__ == '__main__':
+    app.run(host='172.31.36.199', port=8080)

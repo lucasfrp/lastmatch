@@ -1,5 +1,5 @@
 {
-  "X-Riot-Token": "RGAPI-bbb3054c-e2e8-40ad-85a7-aa466a84501a",
+  "X-Riot-Token": "RGAPI-8fc279e7-05b8-4e90-b63a-9d1bf91b40d9",
   "api_url": "https://br1.api.riotgames.com/lol/",
   "player_by_name_url": "summoner/v4/summoners/by-name/",
   "match_list_by_account": "match/v4/matchlists/by-account/",
